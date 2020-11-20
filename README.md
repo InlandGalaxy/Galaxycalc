@@ -1,2 +1,2 @@
-# INGCalculator
-Not yet available. Use the Leggings Calculator
+# Galaxycalc
+This is a calculator
